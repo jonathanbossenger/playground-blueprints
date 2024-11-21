@@ -1,3 +1,4 @@
 # My Playground Blueprints
 
-1. Create Block Theme
+1. [Create Block Theme](https://playground.wordpress.net/?name=Blueprint+preview&blueprint-url=https://raw.githubusercontent.com/jonathanbossenger/playground-blueprints/refs/heads/main/create-block-theme/blueprint.json)
+2. Create Block theme with Blockbase
